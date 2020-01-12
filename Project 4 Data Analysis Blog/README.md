@@ -1,5 +1,7 @@
 # E-commecre-project
 
+The Blog link : https://ecommerce123452.blogspot.com/2020/01/e-commerce-in-brazil.html
+
 In this blog, I talked about the behavior of Brazilians in accepting e-commerce, and how investors should respond to consumer behavior.
 the questions I interested in are:
 
