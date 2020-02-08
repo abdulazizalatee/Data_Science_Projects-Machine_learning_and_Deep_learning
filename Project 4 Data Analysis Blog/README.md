@@ -2,8 +2,10 @@
 
 
 
-* [E-Commerce in Brazil ]
-(https://ecommerce123452.blogspot.com/2020/01/e-commerce-in-brazil.html)
+* [Brazil and its relationship to the emerging economy and e-commerce]
+(https://ecommerce123452.blogspot.com/2020/02/brazil-and-its-relationship-to-emerging.html)
+
+Project Motivation
 
 In this blog, I talked about the behavior of Brazilians in accepting e-commerce, and how investors should respond to consumer behavior.
 the questions I interested in are:
@@ -21,7 +23,7 @@ Installation:
 - matplotlib
 
 Data Descriptions:
-The data was in several files so I used SQL to collect the data in one table (as a variable) and use it in the analysis.
+The data was in several files so I bulit database and I used SQL to extract the data and use it in the analysis.
 
 Results:
 - In any analysis process, we need to put questions that help us in the analysis process and search for what is needed.
@@ -36,3 +38,8 @@ https://olist.com/
 
 - Wikipedia
 https://en.wikipedia.org/wiki/Brazil
+
+* [Kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce#olist_sellers_dataset.csv) 
+* [Olist](https://olist.com/) 
+* [Kaggle](Wikipedia) 
+
