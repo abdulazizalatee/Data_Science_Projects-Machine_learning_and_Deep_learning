@@ -2,7 +2,7 @@
 
 
 
-* [Brazil and its relationship to the emerging economy and e-commerce](https://ecommerce123452.blogspot.com/2020/02/brazil-and-its-relationship-to-emerging.html) 
+* [Blog Post: Brazil and its relationship to the emerging economy and e-commerce](https://ecommerce123452.blogspot.com/2020/02/brazil-and-its-relationship-to-emerging.html) 
 
 Project Motivation
 
