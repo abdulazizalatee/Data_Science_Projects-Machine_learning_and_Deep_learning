@@ -22,6 +22,7 @@ the questions I interested in are:
 - matplotlib
 
 **Data Descriptions:**
+
 The data was in several files so I bulit database and I used SQL to extract the data and use it in the analysis.
 
 **Results:**
